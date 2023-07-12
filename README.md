@@ -1,6 +1,10 @@
 # vue-quiz-app
 
-This template should help get you started developing with Vue 3 in Vite.
+This is yet another simple and interactive quiz app developed using the Vue.js Framework. It is so simple and creative where you can answer 3 questions and get the result if you pass or fail.
+
+## Demo
+
+You can view the demo by click this [link](http://vue-quiz-app.mnfprofile.com/)
 
 ## Recommended IDE Setup
 
